@@ -11,7 +11,7 @@ If you have problems installing `h2o`, you might need a copy of [Java  JDK](http
 
 If all works well, you are now ready to start the course. Download all the files for the course by clicking [here](https://github.com/andrewcparnell/intro_to_ml/archive/master.zip). Unzip this file and then double click on the `Intro_to_ml.Rproj` file. You can now start coding!
 
-All the slides for the course are available in pdf format [here](https://andrewcparnell.github.io/intro_to_ml/intro_to_ML_for_IForm.pdf)
+All the slides for the course are available in pdf format [here](https://github.com/andrewcparnell/intro_to_ml/raw/master/intro_slides.pdf)
 
 Sessions:
 
