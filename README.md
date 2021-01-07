@@ -8,11 +8,11 @@ You should watch the videos below first and then try to follow the code by downl
 
 Videos:
 
- 1. Introduction to ML part 1 | [stream video](https://media.heanet.ie/page/6899f37158664d1c85063a461047550e) | [download video](https://media.heanet.ie/download/6899f37158664d1c85063a461047550e) 
- 2. Introduction to ML part 2 | [stream video](https://media.heanet.ie/page/a35c99d8648a434f9a4f47d0c909269e) | [download video](https://media.heanet.ie/download/a35c99d8648a434f9a4f47d0c909269e) 
- 3. Introduction to ML part 3 | [stream video](https://media.heanet.ie/page/85928ddfbab942278c380dfaa474712f) | [download video](https://media.heanet.ie/download/85928ddfbab942278c380dfaa474712f) 
- 4. Introduction to Rstudio | [stream video](https://media.heanet.ie/page/176fc0453b0542b386110c2bceee0e3b) | [download video](https://media.heanet.ie/download/176fc0453b0542b386110c2bceee0e3b) 
- 5. More coding with `mlr` | [code](https://andrewcparnell.github.io/Rfternoon/2_learn_mlr.R) | [stream video](https://media.heanet.ie/page/54f0439f6e7644bd99c1c4ac82cee758) | [download video](https://media.heanet.ie/download/54f0439f6e7644bd99c1c4ac82cee758) 
+ 1. Introduction to ML part 1 - [stream video](https://media.heanet.ie/page/6899f37158664d1c85063a461047550e) - [download video](https://media.heanet.ie/download/6899f37158664d1c85063a461047550e) 
+ 2. Introduction to ML part 2 - [stream video](https://media.heanet.ie/page/a35c99d8648a434f9a4f47d0c909269e) - [download video](https://media.heanet.ie/download/a35c99d8648a434f9a4f47d0c909269e) 
+ 3. Introduction to ML part 3 - [stream video](https://media.heanet.ie/page/85928ddfbab942278c380dfaa474712f) - [download video](https://media.heanet.ie/download/85928ddfbab942278c380dfaa474712f) 
+ 4. Introduction to Rstudio - [stream video](https://media.heanet.ie/page/176fc0453b0542b386110c2bceee0e3b) - [download video](https://media.heanet.ie/download/176fc0453b0542b386110c2bceee0e3b) 
+ 5. More coding with `mlr` - [code](https://andrewcparnell.github.io/Rfternoon/2_learn_mlr.R) - [stream video](https://media.heanet.ie/page/54f0439f6e7644bd99c1c4ac82cee758) - [download video](https://media.heanet.ie/download/54f0439f6e7644bd99c1c4ac82cee758) 
 
 Note that the last two videos are taken from a more general R course available [here](https://andrewcparnell.github.io/Rfternoon). 
 
