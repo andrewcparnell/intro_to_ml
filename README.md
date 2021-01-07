@@ -2,7 +2,7 @@
 
 Welcome to a very short course that covers introductory machine learning and some basic R coding. 
 
-All the slides for the course are available in pdf format [here](https://github.com/andrewcparnell/intro_to_ml/raw/master/intro_slides.pdf). If you want to download all the information (including code and data sets) click [here](https://github.com/andrewcparnell/intro_to_ml/archive/master.zip). Unzip this file and then double click on the `Intro_to_ml.Rproj` file. 
+All the slides for the course are available in pdf format [here](https://github.com/andrewcparnell/intro_to_ml/raw/master/intro_slides.pdf). If you want to download all the information (including code and data sets) click [here](https://github.com/andrewcparnell/intro_to_ml/archive/master.zip).
 
 You should watch the videos below first and then try to follow the code by downloading the software and running it youself. 
 
