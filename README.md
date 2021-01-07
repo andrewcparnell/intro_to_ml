@@ -21,6 +21,8 @@ Sessions:
  4. Introduction to Rstudio | [stream video](https://media.heanet.ie/page/176fc0453b0542b386110c2bceee0e3b) | [download video](https://media.heanet.ie/download/176fc0453b0542b386110c2bceee0e3b) 
  5. More coding with `mlr` | [code](https://andrewcparnell.github.io/Rfternoon/2_learn_mlr.R) | [stream video](https://media.heanet.ie/page/54f0439f6e7644bd99c1c4ac82cee758) | [download video](https://media.heanet.ie/download/54f0439f6e7644bd99c1c4ac82cee758) 
 
+Note that the last two videos are taken from a more general R course available [here](https://andrewcparnell.github.io/Rfternoon). 
+
 You should watch the videos abovef first and then try to follow the code by downloading the software and running it youself whilst watching the videos. 
 
 If you run into problems or find broken links please use the [issues](https://github.com/andrewcparnell/intro_to_ml/issues) page. 
